@@ -8,4 +8,4 @@ three buttons will open :
 3. the third button removes duplicates and creates a file with the result
 thanks to the telegram community https://t.me/chat_fts
 if not difficult, share bitcoin 0.00051
-to wallet 3AAAFoA19oxsDg1dEyXYQT5VoqPfBTiYLUx
+to wallet 3AAFoA19oxsDg1dEyXYQT5VoqPfBTiYLUx
