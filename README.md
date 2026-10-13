@@ -7,5 +7,5 @@ three buttons will open :
 2. the second button finds all IPs in the glued file
 3. the third button removes duplicates and creates a file with the result
 thanks to the telegram community https://t.me/chat_fts
-if not difficult, share bitcoin 0.00051
-to wallet 3AAFoA19oxsDg1dEyXYQT5VoqPfBTiYLUx
+if not difficult, share any GRAM to wallet
+UQCsHgrwYOgxlMK3dppgQo2QQDMCJeGmKsxgNdCft6hkdfmt
